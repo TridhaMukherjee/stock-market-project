@@ -95,3 +95,6 @@ The project uses Linear Regression as a basic model for stock price prediction. 
 
 ## Results
 The model provides predictions based on historical stock data. The results can be evaluated by comparing the predicted stock prices against actual prices. Various performance metrics like Mean Squared Error (MSE) and R-squared can be used to evaluate the accuracy of the model.
+
+## Author
+[Tridha Mukherjee](https://github.com/TridhaMukherjee)
